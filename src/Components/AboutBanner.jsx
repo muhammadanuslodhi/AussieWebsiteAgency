@@ -17,7 +17,7 @@ const AboutBanner = () => {
               <h6 className="text-blue-400 text-sm md:text-lg font-semibold tracking-[3px] uppercase">A True One-Stop Shop for</h6>
 
               <h2 className="text-4xl md:text-6xl xl:text-7xl font-extrabold bg-gradient-to-r from-blue-400 via-purple-400 to-indigo-500 bg-clip-text text-transparent leading-tight">
-                Who are We? dasdsad
+                Who are We?
               </h2> 
 
               <p className="text-gray-300 text-base md:text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto lg:mx-0">
